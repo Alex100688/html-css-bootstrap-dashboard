@@ -1,4 +1,21 @@
 header{
     height: 4.375rem;
-    
+      
+}
+
+.ms-fa-bell-size{
+    font-size: 1.25rem;
+    color: var(--yellow-color);
+}
+
+.ms-search{
+    background-color: var(--first-color);
+    border-radius: .625rem;
+    height: 2.5rem;
+    line-height: 2.5rem;
+    padding-left: .625rem;
+}
+
+.ms-small-header{
+    color:#828282 ;
 }
