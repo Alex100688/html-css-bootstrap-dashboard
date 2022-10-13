@@ -1,5 +1,6 @@
 aside{
-    width: 3.75rem;
+    width: 5rem;
     padding:1.25rem;
-    flex-shrink: 0;    
+    flex-shrink: 0;
+    background-color: #152b40;    
 }
