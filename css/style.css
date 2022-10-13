@@ -11,5 +11,6 @@ body{
 }
 /* /font foglio html/css */
 .page-container{
-    height: calc(100vh - 70px);
+    display: flex;
+    height: calc(100vh - 4.375rem);
 }
