@@ -3,9 +3,36 @@ aside{
     flex-shrink: 0;
     background-color: #152b40; 
     height: 100%;
+    color: white; 
 }
-.ms-main-nav{
-    background-color: yellow;
-    height: 100%;
+
+.ms-nav-ul .ms-nav-li{
+    list-style: none;
+   
 }
+
+ .ms-nav-li .link-nav > i{
+    font-size: 1rem;
+    width: 2.5rem;
+    transition: background-color 2s;
+}
+.ms-nav-li .link-nav:hover{
+    background-color: lightgrey;
+}
+
+.ms-main-nav .ms-nav-li{
+    display: flex;
+    align-items: center;
+    padding: .375rem;    
+}
+
+.ms-main-nav .link-nav{
+    text-decoration: none;
+    color: white;      
+}
+span{
+    display: inline-block;
+}
+
+
 
