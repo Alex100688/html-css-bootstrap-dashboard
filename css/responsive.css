@@ -1,7 +1,7 @@
 /* responsive */
 /* responsive sm (min width 576px ) */
 @media screen and (min-width:576px) {
-    
+   
 }
 /* /responsive sm (min width 576px ) */
 
@@ -13,7 +13,12 @@
 
 /* responsive lg (min width 992px ) */
 @media screen and (min-width:992px) {
-    
+   .ms-d-responsive{
+    display: inline-block;
+   }
+   .ms-img-width{
+    width: 3.125rem;
+   }
 }
 /* /responsive lg (min width 992px ) */
 /*/ responsive */

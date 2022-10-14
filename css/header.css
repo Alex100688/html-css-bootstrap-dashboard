@@ -1,19 +1,36 @@
 header{
-    height: 4.375rem;
-      
+    height: 3.75rem;
+    background-color: lightblue;     
 }
 
-.ms-fa-bell-size{
-    font-size: 1.25rem;
-    color: var(--yellow-color);
+.ms-d-responsive{
+    display: none;
+}
+
+.link-header{
+    color: var(--second-color);
+    text-decoration: none;
+}
+
+a:hover{
+    color: var(--second-color);
+}
+    
+    
+
+.dropdown-toggle::after{
+    display: none;
+}
+.ms-display{
+    display: inline-block;
 }
 
 .ms-search{
     background-color: var(--first-color);
-    border-radius: .625rem;
+    border-radius: .3125rem;
     height: 2.5rem;
     line-height: 2.5rem;
-    padding-left: .625rem;
+    padding-left: .625rem;  
 }
 
 .ms-small-header{
