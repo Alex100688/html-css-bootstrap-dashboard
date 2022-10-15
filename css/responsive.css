@@ -30,6 +30,9 @@
 .ms-d-table{
     display:table-cell;
 }
+.ms-img-avatar{
+    max-width: 1.875rem;
+}
 }
 /* /responsive lg (min width 992px ) */
 /*/ responsive */
