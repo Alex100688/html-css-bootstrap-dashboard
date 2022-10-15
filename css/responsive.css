@@ -16,9 +16,17 @@
    .ms-d-responsive{
     display: inline-block;
    }
+
+   .ms-d-responsive-reverse{
+    display:none
+ }
    .ms-img-width{
     width: 3.125rem;
    }
+
+   .margin-student-online{
+    padding-bottom: 4.375rem;
+}
 }
 /* /responsive lg (min width 992px ) */
 /*/ responsive */

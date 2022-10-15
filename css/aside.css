@@ -1,5 +1,6 @@
 aside{
     width: auto;
+    padding: 1.875rem;
     flex-shrink: 0;
     background-color: #152b40; 
     height: 100%;

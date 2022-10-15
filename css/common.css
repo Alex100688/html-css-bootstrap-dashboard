@@ -10,10 +10,19 @@
 
 }
 
-
+.ms-d-responsive-reverse{
+   display: inline-block;
+}
 
 
 .ms-small-container{
-   width: 100vw;
+   width: calc(100% - 30px);
    background-color: rgba(21, 114, 232, 0.8);
+   
+
+}
+
+.ms-d-flex-space{
+   display: flex;
+   justify-content: space-between;
 }

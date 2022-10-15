@@ -5,10 +5,18 @@
     
 }
 
-
-
-
-
 .d-main{
     display: inline-block;
+}
+.ms-height-card{
+    height: 100%;
+}
+    
+ .ms-table{
+    height: 100%;
+    border: 1px solid lightgray;
+ }   
+
+.ms-img-avatar{
+    max-width: 2.5rem;
 }
