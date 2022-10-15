@@ -2,3 +2,18 @@
    width: 2.5rem; 
 }
 
+.text-bg-primary{
+   background-color: #155cbf;
+   border-radius: .625rem;
+   font-size: .875rem;
+   cursor: pointer;
+
+}
+
+
+
+
+.ms-small-container{
+   width: 100vw;
+   background-color: rgba(21, 114, 232, 0.8);
+}
