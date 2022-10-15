@@ -27,6 +27,9 @@
    .margin-student-online{
     padding-bottom: 4.375rem;
 }
+.ms-d-table{
+    display:table-cell;
+}
 }
 /* /responsive lg (min width 992px ) */
 /*/ responsive */
